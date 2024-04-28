@@ -1,0 +1,10 @@
+# macOS files
+.DS_Store
+
+# executable files
+CPU
+
+# other files
+output.txt
+waveform.vcd
+instruction.txt
