@@ -2,7 +2,7 @@
 
 The Verilog source code for a Pipelined-CPU with 2-bit Dynamic Branch Predictor simulation.
 
-Course: NTU CSIE 3340 Computer Architecture
+Course: NTU CSIE 3340 Computer Architecture, Fall 2023
 
 Instructor: Chia-Lin Yang
 
